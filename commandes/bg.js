@@ -36,7 +36,7 @@ const date = moment().format('DD/MM/YYYY');
 let infoMsg =  `
 Hello : *${ms.pushName}*
 Hope you are doing great. thanks for choosing 
-Trex Md,I'm happy it Impressed you. 
+James tst,I'm happy it Impressed you. 
 *Below are the bot's Information*
 Bot Name: *${s.BOT}*
 Version : 𝟹.𝟻
