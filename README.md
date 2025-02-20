@@ -1,20 +1,20 @@
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://files.catbox.moe/rjkqfo.jpg'/></a><a><img src='https://files.catbox.moe/rjkqfo.jpg'/></a>
 <p align="center">
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•★⃝ 𝐄𝐍𝐙𝐎 𝐌𝐃-★⃝•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+𝐄𝐍𝐙𝐎;RELEASED+DATE+22%2F6%2F2024." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•★⃝ JAMES TST-★⃝•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+JAMES;RELEASED+DATE+22%2F6%2F2024." alt="Typing SVG" /></a>
  </p>
 <p align="center">
- <a><img src='https://i.imgur.com/LyHic3i.gif'/></a> <a>
+ <a><img src='https://files.catbox.moe/rjkqfo.jpg'/></a> <a>
 <p align="center">  
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=𝐄𝐍𝐙𝐎 𝐌𝐃" alt="Typing SVG"/></a>
+<a><img src='https://files.catbox.moe/rjkqfo.jpg'/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=JAMES TST" alt="Typing SVG"/></a>
 
 <p align="center">  
-  <a href="https://whatsapp.com/channel/0029VajJTJp2f3ELCm8FN50D">
-    <img alt="wasi" height="400" src="https://i.ibb.co/CmMWm5J/IMG-20240918-WA0148.jpg">
-    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-   <h1 align="center">𝐄𝐍𝐙𝐎 𝐌𝐃</h1>
+  <a href="https://whatsapp.com/channel/0029VaogSY74IBhJWe8b472H">
+    <img alt="wasi" height="400" src="https://files.catbox.moe/rjkqfo.jpg">
+    <a><img src='https://files.catbox.moe/rjkqfo.jpg'/></a>
+   <h1 align="center">JAMES TST</h1>
   </a>
     <div align="center">
   <img src="https://spogit.vercel.app/api?theme=dark&rainbow=true&scan=true" alt="Widget with the current Spotify song"  />
@@ -60,8 +60,8 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## Join my channel for updates
-<a href="https://whatsapp.com/channel/0029VajJoCoLI8YePbpsnE3q" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -https://whatsapp.com/channel/0029VajJoCoLI8YePbpsnE3q?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://whatsapp.com/channel/0029VaogSY74IBhJWe8b472H" target="_blank">
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -https://whatsapp.com/channel/0029VaogSY74IBhJWe8b472H?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
 
@@ -69,7 +69,7 @@
 HOW TO REACH THE OWNER? 
  
    
-   <a href="https://wa.me/254784115308">
+   <a href="https://wa.me/2547885016388">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>&nbsp;&nbsp;
    <a
@@ -81,7 +81,7 @@ HOW TO REACH THE OWNER?
 ## STEPS TO DEPLOY YOUR BOT
 
 
-1, Star the repo up there then click Here To  [`FORK`](https://github.com/Cheroo51/ENZO-MD/fork)
+1, Star the repo up there then click Here To  [`FORK`](https://github.com/jtechde/jv1/fork)
 
 2, TAP ON GET SESSIONS
 
@@ -103,22 +103,22 @@ HOW TO REACH THE OWNER?
     
   </tr>
   <tr>
-    <td><a href="https://whatsapp.com/channel/0029VajJTJp2f3ELCm8FN50D"><img src="https://i.ibb.co/xmZ205D/Screenshot-20240919-212724-Whats-App-Business.jpg" width="180"</td>
+    <td><a href="https://whatsapp.com/channel/0029VaogSY74IBhJWe8b472H"><img src="https://files.catbox.moe/rjkqfo.jpg" width="180"</td>
   </tr>
 </table>
 
 </p>
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://files.catbox.moe/rjkqfo.jpg'/></a>
 ## Contributions
 
 
-Contributions to 𝐄𝐍𝐙𝐎 𝐌𝐃 are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
+Contributions to james tst are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
 ## THANKS TO [GOD]
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://files.catbox.moe/rjkqfo.jpg'/></a>
 ## License
 
-The 𝐄𝐍𝐙𝐎 𝐌𝐃 is released under the [MIT License](https://opensource.org/licenses/MIT).
+The James tst is released under the [MIT License](https://opensource.org/licenses/MIT).
 
 Enjoy the diverse features of the *𝐄𝐍𝐙𝐎 𝐌𝐃*  to enhance your Whatsapp more enjoyable ☣𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 𝐄𝐍𝐙𝐎 𝐌𝐃
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://files.catbox.moe/rjkqfo.jpg'/></a>
