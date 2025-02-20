@@ -104,7 +104,7 @@ zokou({
     const lyrics = await firstSong.lyrics();
     const artist = await firstSong.artist.name;
     const title = await firstSong.title;
-    const lyricsMessage = "*TREX-MD LYRICS FINDER*\n\n*TITLE* - " + title + "\n\n*ARTIST* - " + artist + "\n\n" + lyrics;
+    const lyricsMessage = "*JAMES-TSTLYRICS FINDER*\n\n*TITLE* - " + title + "\n\n*ARTIST* - " + artist + "\n\n" + lyrics;
     await sender.sendMessage(message, {
       'image': {
         'url': "./media/lyrics.jpg"
