@@ -38,19 +38,19 @@ const date = moment().format('DD/MM/YYYY');
 *𝐇𝐞𝐲 𝐘𝐨𝐮?* 
 *𝐅𝐨𝐫 𝐮𝐩𝐝𝐚𝐭𝐞𝐬 𝐅𝐨𝐥𝐥𝐨𝐰;*
 *Whatsapp channel*
-> https://whatsapp.com/channel/0029VajJTJp2f3ELCm8FN50D
->https://whatsapp.com/channel/0029VajJoCoLI8YePbpsnE3q
+> https://whatsapp.com/channel/0029VaogSY74IBhJWe8b472H
+> https://whatsapp.com/channel/0029VaogSY74IBhJWe8b472H
 
 *Youtube*
-> https://www.youtube.com/wemacomic
+> https://www.youtube.com
 
 *For more info*
-> https://github.com/Cheroo51/ENZO-MD
->https://github.com/Popkid-md/TRIPPY
+> https://github.com/jtechde/jv1
+>https://github.com/jtechde/jv1
   `;
     
 let menuMsg = `
-> ©enzo 𝐌𝐝
+> ©𝙹𝙰𝙼𝙴𝚂
 `;
 
    var lien = mybotpic();
