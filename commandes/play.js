@@ -25,7 +25,7 @@ zokou({
       const video = videos[0];
       const songDetails = {
         image: { url: video.thumbnail },
-         caption: `*ENZO-MD SONG PLAYER*\n
+         caption: `*JAMES TST SONG PLAYER*\n
 ╭───────────────◆
 │✞ *Title:* ${video.title}
 │✞ *Quality:* ${video.type}
@@ -38,11 +38,11 @@ zokou({
 ╭────────────────◆
 u can as well join here to get your song download
 in more tracks 🤗😋 
-https://t.me/popkid
+https://t.me/achaufalafollowlink
 use prefix {/}  example {/search dada}
 ╰────────────────◆
 ╭────────────────◆
-│ *_Powered by enzo._*
+│ *_Powered by james tst_*
 ╰─────────────────◆`
       };
 
@@ -96,7 +96,7 @@ zokou({
       const video = videos[0];
       const videoDetails = {
         image: { url: video.thumbnail },
-        caption: `*ENZO-MD VIDEO DOWNLOADER*\n
+        caption: `*JAMES TST VIDEO DOWNLOADER*\n
 ╭───────────────◆
 │✞ *Title:* ${video.title}
 │✞ *Quality:* ${video.type}
@@ -109,11 +109,11 @@ zokou({
 ╭────────────────◆
 u can as well join here to get your song download
 in more tracks 🤗😋 
-https://t.me/popkid 
+https://t.me/achaufalafollowlink 
 use prefix {/}  example {/search dada}
 ╰────────────────◆
 ╭────────────────◆
-│ *_Powered by enzo._*
+│ *_Powered by tst._*
 ╰─────────────────◆`
       };
 
@@ -129,7 +129,7 @@ use prefix {/}  example {/search dada}
       fileStream.on('finish', () => {
         zk.sendMessage(origineMessage, {
           video: { url: "video.mp4" },
-          caption: "*𝐆𝐄𝐍𝐄𝐑𝐀𝐓𝐄𝐃 𝐁𝐘 ENZO*",
+          caption: "*𝐆𝐄𝐍𝐄𝐑𝐀𝐓𝐄𝐃 𝐁𝐘 tst*",
           gifPlayback: false
         }, { quoted: commandeOptions.ms });
       });
